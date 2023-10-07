@@ -40,13 +40,17 @@ body{
     color: #404BBF;
 }
 
-.link-contact{
-    color: #434455;
+.page-adress .link-contact{
+    color:#434455;
     font-style: normal;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.link-contact:hover,
+.link-contact:focus{
+    color: #404bbf;
 }
 
 .first-section{
