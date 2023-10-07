@@ -8,10 +8,6 @@ ul{
 
 body{
     font-family: 'Roboto', sans-serif;
-    color: 
-}
-
-.main-page{
     background-color: #FFF;
 }
 
@@ -104,4 +100,32 @@ p{
     font-weight: 400;
     line-height: 1,5;
     letter-spacing: 0.02em;
+}
+
+.team-section{
+    background-color: #F4F4FD;
+}
+
+.page-footer{background: #2E2F42;}
+
+.text-footer{
+    color: #F4F4FD;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.logo-footer{
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
+.logo-footer>span{
+   color:#4D5AE5;
 }
