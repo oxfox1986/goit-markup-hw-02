@@ -126,12 +126,13 @@ p{
     font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
 
 .logo-footer>span{
+    font-family: Raleway;
     font-family:'Raleway', sans-serif;
-    color: #FFF;
+    color: #f4f4fd;
 }
