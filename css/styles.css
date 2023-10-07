@@ -80,7 +80,7 @@ h1{
     background-color: #404BBF;
 }
 
-h2{
+.text-h2{
     color:#2E2F42;
     text-align: center;
     font-size: 36px;
@@ -90,7 +90,7 @@ h2{
     text-transform: capitalize;
 }
 
-h3{
+.text-h3{
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
@@ -131,7 +131,7 @@ p{
     text-transform: uppercase;
 }
 
-.log2{
+.log-foot{
     font-family: "Raleway", sans-serif;
     font-family:'Raleway', sans-serif;
     color: #f4f4fd;
